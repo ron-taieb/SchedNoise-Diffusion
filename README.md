@@ -1,7 +1,10 @@
 
 # Diffusion Models with Alternative Noising Distributions and Schedules
 
-This project, led by [Ron Taieb](https://www.linkedin.com/in/ron-taieb-7991231bb/) and [Ori Meidler](https://www.linkedin.com/in/ori-meidler/), explores diffusion models by extending the traditional setup with alternative noise distributions and scheduling strategies. We focus on generating data from known distributions, experimenting with Gaussian Mixture Models (GMM) and Gamma distributions alongside the Gaussian noise typically used in diffusion models.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ron-taieb/SchedNoise-Diffusion/blob/main/SchedNoise-Diffusion.ipynb)
+
+
+This project, by [Ron Taieb](https://www.linkedin.com/in/ron-taieb-7991231bb/) and [Ori Meidler](https://www.linkedin.com/in/ori-meidler/), explores diffusion models by extending the traditional setup with alternative noise distributions and scheduling strategies. We focus on generating data from known distributions, experimenting with Gaussian Mixture Models (GMM) and Gamma distributions alongside the Gaussian noise typically used in diffusion models.
 We also explore sigmoid scheduling in comparison to cosine scheduling and experiment with a new dynamic scheduling framework.
 
 
